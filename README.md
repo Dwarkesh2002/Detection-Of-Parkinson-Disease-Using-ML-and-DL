@@ -1,4 +1,4 @@
-# Parkinson's Disease Detection Using Deep Learning
+# Parkinson's Disease Detection Using ML and DL
 
 ## Overview
 
